@@ -24,8 +24,7 @@ namespace customBlocks {
 
                 if (input.logoIsPressed()) {
                     handler() // Executes the code snapped into the block
-                }
-                else()=>{
+                } else {
                     strip.showColor(neopixel.hsl(0, 0, 0))
                 }
 
