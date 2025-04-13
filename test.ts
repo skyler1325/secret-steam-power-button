@@ -28,8 +28,6 @@ namespace customBlocks {
                     strip.showColor(neopixel.hsl(0, 0, 0))
                 }
 
-            } else {
-                strip.showColor(neopixel.hsl(0, 0, 0))
             }
         })
     }
